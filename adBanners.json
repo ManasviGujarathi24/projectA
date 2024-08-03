@@ -1,0 +1,20 @@
+[
+      {
+        "id": 1,
+        "title": "Special Summer Sale",
+        "description": "Save big with our summer deals!",
+        "cta": "Shop Now",
+        "image": "/images/banner1.jpg",
+        "background": "light"
+      },
+      {
+        "id": 2,
+        "title": "New Arrivals",
+        "description": "Discover the latest fashion trends.",
+        "cta": "Explore",
+        "image": "/images/banner2.jpg",
+        "background": "dark"
+      }
+    ]
+    
+    
